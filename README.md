@@ -1,5 +1,5 @@
 📊 HR Analytics Dashboard (Power BI)
-
+![Dashboard](https://github.com/Sahil-2612-12/HR-Analytics-Dshboard-/blob/main/Screenshot%202025-10-03%20145032.png)
 This repository contains an interactive HR Analytics Dashboard built using Power BI, focused on analyzing employee data to uncover key insights related to attrition, workforce distribution, and demographics.
 
 🚀 Project Overview
